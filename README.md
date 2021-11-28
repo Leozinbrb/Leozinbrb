@@ -1,5 +1,3 @@
-- 🔭 | Hoje trabalho com desenvolvimento Full-Stack
-- ⚡ | Cada sonho deixado pra trás, é um pedaço de seu futuro que deixa de existir
 ## Olá eu sou o Léo Barros, programador full-stack e amante de tecnologia!
 <div align="center">
   <a href="https://github.com/Leozinbrb">
