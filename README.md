@@ -16,7 +16,7 @@
 <div> 
   <a href="https://instagram.com/leozinbrb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Leozinbrb=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   ![Snake animation](https://github.com/Leozinbrb/Leozinbrb/blob/output/github-contribution-grid-snake.svg)
  
