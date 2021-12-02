@@ -1,5 +1,7 @@
 ## Olá eu sou o Léo Barros, programador full-stack e amante de tecnologia!
 
+![background](https://user-images.githubusercontent.com/94498302/144342067-ee69bac5-44c5-442f-9e6b-ab8fb7afac0b.jpg)
+
 <div align="center">
   <a href="https://github.com/Leozinbrb">
 </div>
